@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Berkeley Humane",
+        "location": "Berkeley, CA",
+        "zip": "94710",
+        "address": "2700 Ninth St, Berkeley, CA",
+        "phone": "(510) 845-7735"
+    },
+    {
+        "name": "Friends of The Alameda Animal Shelter",
+        "location": "Alameda, CA",
+        "zip": "94501",
+        "address": "1590 Fortmann Way, Alameda, CA",
+        "phone": "(510) 337-8565"
+    },
+    {
+        "name": "Friends of the Alameda Animal Shelter South Shore",
+        "location": "Alameda, CA",
+        "zip": "94501",
+        "address": "2228 S Shore Center, Alameda, CA",
+        "phone": "(510) 337-8565"
+    },
+    {
+        "name": "East Bay SPCA Oakland Adoption Center",
+        "location": "Oakland, CA",
+        "zip": "94621",
+        "address": "8323 Baldwin St, Oakland, CA",
+        "phone": "(510) 569-0702"
+    },
+    {
+        "name": "Seattle Animal Shelter",
+        "location": "Seattle, WA",
+        "zip": "98119",
+        "address": "2061 15th Ave W, Seattle, WA",
+        "phone": "(206) 386-7387"
+    },
+    {
+        "name": "PAWS Cat City (Progressive Animal Welfare Society)",
+        "location": "Seattle, WA",
+        "zip": "9805",
+        "address": "5200 Roosevelt Way NE, Seattle, WA",
+        "phone": "(206)782-1700"
+    },
+    {
+        "name": "The Haus of Dogs",
+        "location": "Edmonds, WA",
+        "zip": "98020",
+        "address": "9657 Firdale Ave, Edmonds, WA",
+        "phone": "(206) 678-6264"
+    },
+    {
+        "name": "Emerald City Pet Rescue",
+        "location": "Seattle, WA",
+        "zip": "98134",
+        "address": "20 S Idaho St, Seattle, WA",
+        "phone": "(206) 557-4661"
+    },
+    {
+        "name": "PAWS Chicago",
+        "location": "Chicago, IL",
+        "zip": "60614",
+        "address": "1997 N Clybourn Ave, Chicago, IL",
+        "phone": "(773) 935-7297"
+    },
+    {
+        "name": "Evanston Animal Shelter",
+        "location": "Evanston, IL",
+        "zip": "60202",
+        "address": "2310 Oakton St, Evanston, IL 60202",
+        "phone": "(847) 866-5082"
+    },
+    {
+        "name": "The Buddy Foundation",
+        "location": "Arlington Heights, IL",
+        "zip": "60005",
+        "address": "65 W Seegers Rd, Arlington Heights, IL",
+        "phone": "(847) 290-5806"
+    },
+    {
+        "name": "Hoof Woof & Meow Animal Rescue Inc",
+        "location": "Elgin, IL",
+        "zip": "60123",
+        "address": "440 J Airport Rd, Elgin, IL",
+        "phone": "(847) 836-7387"
+    }
+]

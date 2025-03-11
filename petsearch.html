@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <title>PetFinder Pet Search</title>
+    <link rel="stylesheet" href="./static/css/maincss.css" />
+</head>
+<body>
+    <nav>
+        <a href="./petsearch.html">Search for a Pet</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="./research.html">Research a Pet</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="./centers.html">Find Adoption Centers</a>
+    </nav>
+
+    <div class="content">
+    <h1>PetFinder Pet Search</h1>
+    <p>Enter your city or zip into the search bar below.<br><br>
+    The PetFinder App by Purina will search for adoptable pets in your area.
+    </p>
+    <label for="location">Enter Your Location (City or ZIP):</label><br> 
+    <input type="text" id="location" placeholder="e.g., Berkeley, CA or 94701">
+    <button id="search-button">Search</button>
+    </div>
+    <div class="pet-list" id="pet-list"></div>
+
+    <script src="./static/js/petfinder.js"></script>
+    
+</body>
+</html>
